@@ -1,1 +1,5 @@
 
+url = "https://api.nasa.gov/neo/rest/v1/feed"
+
+#temporary api key requested from NASA api website
+api_key = "xNm0gIWqBIENxaTxwnDbEPhnb8dN18KPPUNaHhHo"
